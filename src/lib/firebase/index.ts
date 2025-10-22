@@ -23,3 +23,4 @@ if (import.meta.env.DEV) {
     console.error('Error connecting to emulators:', error);
   }
 }
+
